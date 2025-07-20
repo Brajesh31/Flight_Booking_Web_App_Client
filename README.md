@@ -14,8 +14,6 @@ This is the **frontend** of a flight booking application built using **React** a
 
 ---
 
-- Project Link
-- http://34.54.212.198/
 
 
 ## 🚀 Features
