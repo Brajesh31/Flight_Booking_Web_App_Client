@@ -54,4 +54,4 @@ This is the **frontend** of a flight booking application built using **React** a
 ├── package.json         # Project metadata and scripts
 └── README.md            # This file
 
-Last updated: 2026-10-25 21:25 UTC
+Last updated: 2026-10-25 23:48 UTC
