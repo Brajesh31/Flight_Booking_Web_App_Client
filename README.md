@@ -1,3 +1,5 @@
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ESM-F7DF1E?logo=javascript&logoColor=black) ![License](https://img.shields.io/badge/License-MIT-green) ![CI](https://github.com/Brajesh31/Flight_Booking_Web_App_Client/actions/workflows/ci.yml/badge.svg)
+
 # Flight Booking Web App | Frontend
 
 A React-based flight booking frontend built with Vite. The application provides a multi-step travel booking experience that includes a landing page, flight search, checkout, payment, and booking confirmation screens. It uses React Router for navigation, Clerk for authentication, Redux Toolkit for shared state, Axios for backend communication, and Tailwind CSS for styling.
