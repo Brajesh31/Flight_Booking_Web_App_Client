@@ -275,3 +275,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE
 - [API contracts](docs/API_CONTRACTS.md): flight search, itinerary, and booking endpoint expectations.
 - [Deployment guide](docs/DEPLOYMENT.md): static hosting, SPA routing, CDN, HTTPS, and release checks.
 - [Contributing](CONTRIBUTING.md), [security policy](SECURITY.md), and [community guidelines](CODE_OF_CONDUCT.md).
+
+Last updated: 2026-11-13 18:43 UTC
