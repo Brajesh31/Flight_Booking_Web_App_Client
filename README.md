@@ -265,3 +265,5 @@ The current service files use hard-coded localhost URLs. Production deployment w
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md), and [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md) before changing the route flow, API service contracts, authentication, or deployment behavior.
+
+Last updated: 2026-11-13 18:32 UTC
