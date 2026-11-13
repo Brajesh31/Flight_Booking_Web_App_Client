@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Brajesh31/Flight_Booking_Web_App_Client/security/advisories/new
+    about: Report vulnerabilities privately. Do not post credentials or passenger data in public issues.
+  - name: Contribution guidelines
+    url: https://github.com/Brajesh31/Flight_Booking_Web_App_Client/blob/main/CONTRIBUTING.md
+    about: Read contribution expectations before opening a pull request.
