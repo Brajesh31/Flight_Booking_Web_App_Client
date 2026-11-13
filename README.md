@@ -266,4 +266,12 @@ The current service files use hard-coded localhost URLs. Production deployment w
 
 See [CONTRIBUTING.md](CONTRIBUTING.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md), and [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md) before changing the route flow, API service contracts, authentication, or deployment behavior.
 
-Last updated: 2026-11-13 18:42 UTC
+
+## Documentation library
+
+- [Architecture](docs/ARCHITECTURE.md): route structure, state ownership, services, and system boundaries.
+- [Development guide](docs/DEVELOPMENT.md): local setup, testing, debugging, and contribution workflow.
+- [Booking workflow](docs/BOOKING_WORKFLOW.md): user journey, transaction stages, failure states, and trust boundaries.
+- [API contracts](docs/API_CONTRACTS.md): flight search, itinerary, and booking endpoint expectations.
+- [Deployment guide](docs/DEPLOYMENT.md): static hosting, SPA routing, CDN, HTTPS, and release checks.
+- [Contributing](CONTRIBUTING.md), [security policy](SECURITY.md), and [community guidelines](CODE_OF_CONDUCT.md).
