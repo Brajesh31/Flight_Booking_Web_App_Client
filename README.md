@@ -278,4 +278,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE
 - [Deployment guide](docs/DEPLOYMENT.md): static hosting, SPA routing, CDN, HTTPS, and release checks.
 - [Contributing](CONTRIBUTING.md), [security policy](SECURITY.md), and [community guidelines](CODE_OF_CONDUCT.md).
 
-Last updated: 2026-11-13 21:27 UTC
+Last updated: 2026-11-14 01:17 UTC
